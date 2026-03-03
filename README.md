@@ -22,3 +22,7 @@ This project demonstrates deployment of a publicly accessible Linux web server u
 
 ## Result
 Successfully deployed a web server accessible from the public internet.
+
+## Screenshots
+
+![Web Server Running](Screenshots/04-webpage.png)
